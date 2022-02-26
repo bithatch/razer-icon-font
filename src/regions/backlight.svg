@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g stroke="#000">
+  <path d="m415.55 57.764c-141.03 0-255.65 114.62-255.65 255.65v405.19c0 141.03 114.62 255.65 255.65 255.65h128.9c141.03 0 255.65-114.62 255.65-255.65v-405.19c0-141.03-114.62-255.65-255.65-255.65zm0 69.014h128.9c103.99 0 186.63 82.639 186.63 186.63v405.19c0 103.99-82.641 186.63-186.63 186.63h-128.9c-103.99 0-186.63-82.642-186.63-186.63v-405.19c0-103.99 82.641-186.63 186.63-186.63z" color="#000000" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  <path d="m479.47 159.4c-40.542 0-73.721 33.177-73.721 73.719v82.527c0 40.542 33.179 73.721 73.721 73.721s73.719-33.179 73.719-73.721v-82.527c0-40.542-33.177-73.719-73.719-73.719zm0 34.508c22.022 0 39.211 17.189 39.211 39.211v82.527c0 22.022-17.189 39.213-39.211 39.213-22.022 0-39.213-17.191-39.213-39.213v-82.527c0-22.022 17.191-39.211 39.213-39.211z" color="#000000" opacity=".4" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  <path d="m220.13 423.77v32.213h518.58v-32.213h-502.48z" color="#000000" opacity=".4" stroke-linecap="square" style="-inkscape-stroke:none"/>
+ </g>
+ <path transform="matrix(1.5689 -1.3004 1.3004 1.5689 -313.61 481.97)" d="m301.1 304.72c0.10734 31.445-24.252 6.4325-45.277 29.814-17.679 19.66 4.0858 54.642-18.857 41.5-27.286-15.629 6.5551-24.219-3.1811-54.118-8.1866-25.141-49.364-23.782-26.512-37.08 27.178-15.815 17.697 17.786 48.458 24.304 25.866 5.4805 45.278-30.859 45.368-4.4194z" opacity=".5" stroke-width="0" style="paint-order:stroke fill markers"/>
+</svg>

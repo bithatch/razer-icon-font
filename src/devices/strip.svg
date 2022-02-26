@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="173.24" cy="158.77" r="34.962"/>
+ <circle cx="382.41" cy="157.61" r="34.962"/>
+ <circle cx="603.23" cy="157.68" r="34.962"/>
+ <circle cx="812.4" cy="156.52" r="34.962"/>
+ <circle cx="172.34" cy="508.54" r="34.962"/>
+ <circle cx="381.5" cy="507.38" r="34.962"/>
+ <circle cx="602.33" cy="507.46" r="34.962"/>
+ <circle cx="811.49" cy="506.3" r="34.962"/>
+ <circle cx="169.84" cy="866.21" r="34.962"/>
+ <circle cx="379" cy="865.05" r="34.962"/>
+ <circle cx="599.82" cy="865.13" r="34.962"/>
+ <circle cx="808.99" cy="863.97" r="34.962"/>
+ <g>
+  <path d="m616.84 219.76-419.19 226.96 1.3074 2.4152h155.91l423.65-229.38z"/>
+  <path d="m586.09 570.52-419.19 226.96 1.3074 2.4152h155.91l423.65-229.38z"/>
+  <g stroke-linejoin="round">
+   <path d="m56 63.492a26.001 26.001 0 0 0-25.998 25.998v136.16a26.001 26.001 0 0 0 25.998 25.998h887.32a26.001 26.001 0 0 0 25.998-25.998v-136.16a26.001 26.001 0 0 0-25.998-25.998zm25.998 51.996h835.32v84.164h-835.32z" color="#000000" style="-inkscape-stroke:none"/>
+   <path d="m56.648 413.51a26.001 26.001 0 0 0-25.998 25.998v136.16a26.001 26.001 0 0 0 25.998 25.998h887.32a26.001 26.001 0 0 0 25.998-25.998v-136.16a26.001 26.001 0 0 0-25.998-25.998zm25.998 51.996h835.32v84.164h-835.32z" color="#000000" style="-inkscape-stroke:none"/>
+   <path d="m54.648 771.51a26.001 26.001 0 0 0-25.998 25.998v136.16a26.001 26.001 0 0 0 25.998 25.998h887.32a26.001 26.001 0 0 0 25.998-25.998v-136.16a26.001 26.001 0 0 0-25.998-25.998zm25.998 51.996h835.32v84.164h-835.32z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+ </g>
+</svg>

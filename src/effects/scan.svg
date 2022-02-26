@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m498.63 56.443c-118.81 0-232.73 48.267-316.54 133.9-83.814 85.631-130.78 201.59-130.78 322.43s46.962 236.8 130.78 322.43c83.814 85.631 197.74 133.9 316.54 133.9s232.73-48.265 316.54-133.9c83.814-85.631 130.78-201.6 130.78-322.43s-46.962-236.8-130.78-322.43c-83.814-85.631-197.73-133.9-316.54-133.9zm0 63.633c101.59 0 199.04 41.185 271.06 114.78s112.62 173.58 112.62 277.92-40.59 204.33-112.62 277.92c-72.029 73.591-169.48 114.78-271.06 114.78s-199.04-41.185-271.07-114.78c-72.029-73.591-112.62-173.58-112.62-277.92s40.59-204.33 112.62-277.92 169.48-114.78 271.07-114.78z" color="#000000" style="-inkscape-stroke:none"/>
+ <path d="m267.71 315.44h420.69v36.867h-420.69z" color="#000000" fill="#00f" stroke-width="95.369" style="-inkscape-stroke:none"/>
+ <path d="m220.03 267.76v132.24h516.06v-132.24z" color="#000000" style="-inkscape-stroke:none"/>
+ <g opacity=".4">
+  <path d="m594.42 272.97h45.276v464.6h-45.276z" color="#000000" fill="#00f" stroke-width="111.07" style="-inkscape-stroke:none"/>
+  <path d="m538.88 217.44v575.67h156.35v-575.67z" color="#000000" style="-inkscape-stroke:none"/>
+ </g>
+</svg>

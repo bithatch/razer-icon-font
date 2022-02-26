@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <path d="m429.4 52.703c-141.13 0-255.82 114.69-255.82 255.82v405.48c0 141.13 114.69 255.82 255.82 255.82h129c141.13 0 255.82-114.69 255.82-255.82v-405.48c0-141.13-114.69-255.82-255.82-255.82zm0 69.063h129c104.06 0 186.76 82.696 186.76 186.76v405.48c0 104.06-82.696 186.76-186.76 186.76h-129c-104.06 0-186.76-82.698-186.76-186.76v-405.48c0-104.06 82.698-186.76 186.76-186.76z" color="#000000" opacity=".5" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  <path d="m493.37 154.4c-40.57 0-73.771 33.201-73.771 73.771v82.588c0 40.571 33.201 73.771 73.771 73.771 40.57 0 73.77-33.201 73.77-73.771v-82.588c0-40.571-33.199-73.771-73.77-73.771zm0 34.531c22.037 0 39.238 17.202 39.238 39.24v82.588c0 22.038-17.201 39.24-39.238 39.24-22.037 0-39.24-17.202-39.24-39.24v-82.588c0-22.038 17.203-39.24 39.24-39.24z" color="#000000" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  <path d="m242.72 419.21v31.707h502.62v-31.707h-486.76z" color="#000000" opacity=".5" stroke-linecap="square" style="-inkscape-stroke:none"/>
+ </g>
+ <path transform="matrix(1.5701 -1.3013 1.3013 1.5701 -297.07 487.44)" d="m301.1 304.72c0.10734 31.445-24.252 6.4325-45.277 29.814-17.679 19.66 4.0858 54.642-18.857 41.5-27.286-15.629 6.5551-24.219-3.1811-54.118-8.1866-25.141-49.364-23.782-26.512-37.08 27.178-15.815 17.697 17.786 48.458 24.304 25.866 5.4805 45.278-30.859 45.368-4.4194z" opacity=".5" style="paint-order:stroke fill markers"/>
+</svg>
